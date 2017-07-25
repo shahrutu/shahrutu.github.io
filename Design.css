@@ -98,7 +98,7 @@ body{
 }
 
 .list-style{
-    color: #cc6699;
+    color: #fff;
 }
 
 
@@ -116,7 +116,7 @@ p.title {
     margin-top: -5px;
     margin-bottom: -5px;
     font-size: 25px;
-    color:aqua;
+    color: #fff;
 }
 
 #footer {
