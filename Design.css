@@ -8,9 +8,9 @@ body{
     padding:0;
     font-family: sans-serif;
     background-image: url("Images/sunrise.jpg");
-    background-size:     cover;                      
+    background-size:     cover;
     background-repeat:   no-repeat;
-    background-position: center center; 
+    background-position: center center;
 }
 #header {
     position: absolute;
@@ -55,7 +55,7 @@ body{
  background-color: white;
  color: brown;
 }
- 
+
 /*
  -webkit-transform: rotate(360deg);
  -moz-transform: rotate(360deg);
@@ -67,14 +67,13 @@ body{
   transition-duration: 0.3s;
 */
 }
-
 .clear{
     clear:both;
-    
+
 }
 
 .flexContainer {
-  
+
     background-color: rgba(0, 0, 0, 0.5);
     color: white;
     padding: 20px;
@@ -98,13 +97,13 @@ body{
 }
 
 .list-style{
-    color: #fff;
+    color:#cc6699;
 }
 
 
 h1{
     color: white;
-    
+
 }
 
 p.title {
@@ -116,11 +115,11 @@ p.title {
     margin-top: -5px;
     margin-bottom: -5px;
     font-size: 25px;
-    color: #fff;
+    color: aqua;
 }
 
 #footer {
-    
+
     position: absolute;
     bottom: 0px;
     height: 80px;
